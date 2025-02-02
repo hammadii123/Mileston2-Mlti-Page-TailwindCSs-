@@ -1,12 +1,12 @@
-import Image from 'next/image'
+// import Image from 'next/image'
 import TestimonialCard from '../../components/TestimonialCard'
 
 const teamMembers = [
   {
-    name: 'John Doe',
+    name: 'Hammad Mustafa',
     role: 'CEO & Founder',
     bio: 'John has over 15 years of experience in digital transformation and business strategy.',
-    image: 'https://randomuser.me/api/portraits/men/1.jpg',
+    image: '/myImage.jpg',
   },
   {
     name: 'Jane Smith',
